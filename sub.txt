@@ -1,1 +1,1 @@
-vless://86ce97c7-00e6-41b3-b8b5-c40c0796e859@171.244.60.13:443?type=ws&allowInsecure=1&encryption=none&path=%2F&host=data.viettel.vn&security=tls&fp=&alpn=&sni=data.viettel.vn#THEGIOI4G.NET
+vless://86ce97c7-00e6-41b3-b8b5-c40c0796e859@171.244.60.13:443?type=ws&allowInsecure=1&encryption=none&path=%2F&host=t.tv360.vn&security=tls&fp=&alpn=&sni=t.tv360.vn#THEGIOI4G.NET
